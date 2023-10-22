@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652184434195",
+    "project_id": "chat-application-63822",
+    "storage_bucket": "chat-application-63822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652184434195:android:c7c74a5a3022211738f1e6",
+        "android_client_info": {
+          "package_name": "com.prachet.quick_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNMHSjdxYuYoEf_sWoPOIr3P3Ym7bJ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
