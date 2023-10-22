@@ -1,6 +1,6 @@
 # chat_application
 
-A new Flutter project.
+Chatting-Application is a project that allows users to communicate with each other in real time. Users can create and join chat rooms
 
 ## Getting Started
 
